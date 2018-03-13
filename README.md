@@ -5,7 +5,9 @@ Code Fellows 301 Final Team Project
 ## Why this project?
 
 * Learn more about planning and building full MVC architecure
-* 
+* Learn more about working with PostgreSQL
+* Learn about working with 3rd party APIs
+* Building a RESTful application with full CRUD functionality using AJAX 
 
 ## Built with:
 * VisualCode
@@ -26,6 +28,13 @@ Code Fellows 301 Final Team Project
 ## Use:
 
 This is a way for anyone to see what was happening on the day they were born (or a day they choose). 
+
+## API 3rd Party Sources
+* NYT Archive API
+http://developer.nytimes.com/
+
+* NOAA Weather API
+https://www.ncdc.noaa.gov/cdo-web/
 
 ## Research/Sources
 * gitignore from https://www.gitignore.io/api/osx,linux,node,vim
